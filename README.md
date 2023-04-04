@@ -1,3 +1,3 @@
-# dice_flutter
+# Dicey Boy - Dice Rolling
 
 Roll it bruv.
